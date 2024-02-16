@@ -1,1 +1,10 @@
-print("hello beca d&a 2024 :)")
+def functionzinha(textinho):
+    return textinho 
+
+textinho = "textinho"
+
+functionzinha(textinho=textinho)
+
+
+
+
